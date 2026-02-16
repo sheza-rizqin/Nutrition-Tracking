@@ -20,12 +20,10 @@ A mobile application for maternal and child nutrition monitoring and tracking in
 - Growth history visualization
 
 ### Key Capabilities
-- ✅ Offline-first design (works without internet)
-- ✅ Local SQLite database
-- ✅ Multilingual support ready
-- ✅ WHO growth standards integration
-- ✅ Risk-based alerting system
-- ✅ Data export ready for ML training
+- Local SQLite database
+- Multilingual support ready
+- WHO growth standards integration
+- Risk-based alerting system
 
 ## Installation
 
