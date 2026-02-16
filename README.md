@@ -105,7 +105,6 @@ lib/
 
 - **Framework:** Flutter/Dart
 - **Database:** SQLite (sqflite package)
-- **Charts:** fl_chart package
 - **Date handling:** intl package
 - **TTS (Text-to-Speech):** flutter_tts package
 - **Local storage:** shared_preferences
@@ -123,12 +122,10 @@ The app uses WHO Child Growth Standards for:
 
 ## Future Enhancements
 
-- [ ] Complete multilingual support (Hindi, Kannada, etc.)
+- [ ] Multilingual support 
 - [ ] Audio guidance with local language TTS
-- [ ] Cloud synchronization with Firebase
 - [ ] ML-based malnutrition prediction model
 - [ ] Export data for research/ML training
-- [ ] SMS/notification reminders
 - [ ] Integration with Anganwadi systems
 
 ## Development Team
