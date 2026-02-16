@@ -1,0 +1,691 @@
+Country Name,Continent,Country Code,Year,Mean age of women at first birth
+Afghanistan,Asia/Pacific,AFG,2016,19.5
+Albania,Europe,ALB,2016,22.8
+Algeria,Africa,DZA,2016,24.5
+Angola,Africa,AGO,2016,19.1
+Armenia,Europe,ARM,2016,21.9
+Azerbaijan,Europe,AZE,2016,
+Bangladesh,Asia/Pacific,BGD,2016,18.4
+Barbados,America,BRB,2016,
+Belarus,Europe,BLR,2016,26
+Belize,America,BLZ,2016,
+Benin,Africa,BEN,2016,20
+Bhutan,Asia/Pacific,BTN,2016,
+Bolivia,America,BOL,2016,
+Brazil,America,BRA,2016,
+Burkina Faso,Africa,BFA,2016,
+Burundi,Africa,BDI,2016,20.7
+Cambodia,Asia/Pacific,KHM,2016,21.5
+Cameroon,Africa,CMR,2016,19.4
+Central African Republic CAR,Africa,CAF,2016,19
+Chad,Africa,TCD,2016,18.2
+Colombia,America,COL,2016,20.9
+Comoros,Africa,COM,2016,
+Congo Brazzaville,Africa,COG,2016,19.5
+Congo Democratic Republic,Africa,COD,2016,19.9
+Costa Rica,America,CRI,2016,19.8
+Cote d'Ivoire,Africa,CIV,2016,19.6
+Cuba,America,CUB,2016,22.2
+Djibouti,Africa,DJI,2016,
+Dominican Republic,America,DOM,2016,20.4
+Egypt,Africa,EGY,2016,21.7
+El Salvador,America,SLV,2016,20.3
+Eritrea,Africa,ERI,2016,
+Eswatini,Africa,SWZ,2016,20.1
+Ethiopia,Africa,ETH,2016,18.8
+Fiji,Asia/Pacific,FJI,2016,
+Gabon,Africa,GAB,2016,
+Gambia,Africa,GMB,2016,19.4
+Georgia,Europe,GEO,2016,22.3
+Ghana,Africa,GHA,2016,20.7
+Guatemala,America,GTM,2016,19.9
+Guinea,Africa,GIN,2016,19.1
+Guinea Bissau,Africa,GNB,2016,19.1
+Guyana,America,GUY,2016,20.2
+Haiti,America,HTI,2016,21.1
+Honduras,America,HND,2016,19.9
+India,Asia/Pacific,IND,2016,20.4
+Indonesia,Asia/Pacific,IDN,2016,21.6
+Iraq,Asia/Pacific,IRQ,2016,21.7
+Jamaica,America,JAM,2016,
+Jordan,Asia/Pacific,JOR,2016,22.5
+Kazakhstan,Asia/Pacific,KAZ,2016,22.6
+Kenya,Africa,KEN,2016,19.8
+Kiribati,Asia/Pacific,KIR,2016,21.7
+Kosovo,Europe,XKO,2016,23.2
+Kyrgyzstan,Asia/Pacific,KGZ,2016,21.7
+Lao,Asia/Pacific,LAO,2016,20.7
+Lesotho,Africa,LSO,2016,20.5
+Liberia,Africa,LBR,2016,18.7
+Madagascar,Africa,MDG,2016,19.7
+Malawi,Africa,MWI,2016,18.7
+Maldives,Asia/Pacific,MDV,2016,21.9
+Mali,Africa,MLI,2016,19
+Mauritania,Africa,MRT,2016,20.7
+Mexico,America,MEX,2016,21.3
+Moldova,Europe,MDA,2016,
+Mongolia,Asia/Pacific,MNG,2016,22.4
+Monte Negro,Europe,MNE,2016,23.8
+Morocco,Africa,MAR,2016,
+Mozambique,Africa,MOZ,2016,
+Myanmar,Asia/Pacific,MMR,2016,22.5
+Namibia,Africa,NAM,2016,20.9
+Nepal,Asia/Pacific,NPL,2016,19.9
+Nicaragua,America,NIC,2016,
+Niger,Africa,NER,2016,
+Nigeria,Africa,NGA,2016,19.7
+North Macedonia,Europe,MKD,2016,23.3
+Pakistan,Asia/Pacific,PAK,2016,21.2
+Palestine,Asia/Pacific,PSE,2016,24.1
+Papua New Guinea,Asia/Pacific,PNG,2016,20.8
+Peru,America,PER,2016,
+Philippines,Asia/Pacific,PHL,2016,22.2
+Qatar,Asia/Pacific,QAT,2016,
+Rwanda,Africa,RWA,2016,21.9
+Saint Lucia,America,LCA,2016,
+Samoa,Asia/Pacific,WSM,2016,22.1
+Sao Tome & Principe,Africa,STP,2016,19.7
+Senegal,Africa,SEN,2016,20.2
+Serbia,Europe,SRB,2016,23.8
+Sierra Leone,Africa,SLE,2016,19.4
+Somalia,Africa,SOM,2016,
+South Africa,Africa,ZAF,2016,20.7
+South Sudan,Africa,SSD,2016,
+Sudan,Africa,SDN,2016,20.9
+Suriname,America,SUR,2016,21.1
+Syria,Asia/Pacific,SYR,2016,
+Tajikistan,Asia/Pacific,TJK,2016,21.4
+Tanzania,Africa,TZA,2016,19.5
+Thailand,Asia/Pacific,THA,2016,22.9
+Timor Leste,Asia/Pacific,TLS,2016,21.9
+Togo,Africa,TGO,2016,20.6
+Tonga,Asia/Pacific,TON,2016,23.6
+Trinidad & Tobago,America,TTO,2016,
+Tunisia,Africa,TUN,2016,25.8
+Turkey,Asia/Pacific,TUR,2016,22.3
+Turkmenistan,Asia/Pacific,TKM,2016,23
+Turks & Caicos Islands,America,TCA,2016,29.3
+Tuvalu,Asia/Pacific,TUV,2016,27.2
+Uganda,Africa,UGA,2016,18.8
+Ukraine,Europe,UKR,2016,
+Uzbekistan,Asia/Pacific,UZB,2016,
+Vanuatu,Asia/Pacific,VUT,2016,
+Vietnam,Asia/Pacific,VNM,2016,22.3
+Yemen,Asia/Pacific,YEM,2016,19.7
+Zambia,Africa,ZMB,2016,18.9
+Zimbabwe,Africa,ZWE,2016,19.7
+Afghanistan,Asia/Pacific,AFG,2015,19.4
+Albania,Europe,ALB,2015,22.9
+Algeria,Africa,DZA,2015,
+Angola,Africa,AGO,2015,19
+Armenia,Europe,ARM,2015,21.9
+Azerbaijan,Europe,AZE,2015,
+Bangladesh,Asia/Pacific,BGD,2015,18.2
+Barbados,America,BRB,2015,22.7
+Belarus,Europe,BLR,2015,25.7
+Belize,America,BLZ,2015,
+Benin,Africa,BEN,2015,20
+Bhutan,Asia/Pacific,BTN,2015,
+Bolivia,America,BOL,2015,
+Brazil,America,BRA,2015,
+Burkina Faso,Africa,BFA,2015,
+Burundi,Africa,BDI,2015,20.7
+Cambodia,Asia/Pacific,KHM,2015,21.5
+Cameroon,Africa,CMR,2015,19.3
+Central African Republic CAR,Africa,CAF,2015,18.9
+Chad,Africa,TCD,2015,18
+Colombia,America,COL,2015,20.9
+Comoros,Africa,COM,2015,21
+Congo Brazzaville,Africa,COG,2015,19.5
+Congo Democratic Republic,Africa,COD,2015,19.8
+Costa Rica,America,CRI,2015,19.8
+Cote d'Ivoire,Africa,CIV,2015,19.5
+Cuba,America,CUB,2015,22.2
+Djibouti,Africa,DJI,2015,
+Dominican Republic,America,DOM,2015,20.4
+Egypt,Africa,EGY,2015,21.6
+El Salvador,America,SLV,2015,20.3
+Eritrea,Africa,ERI,2015,
+Eswatini,Africa,SWZ,2015,20
+Ethiopia,Africa,ETH,2015,18.8
+Fiji,Asia/Pacific,FJI,2015,
+Gabon,Africa,GAB,2015,19.3
+Gambia,Africa,GMB,2015,19.4
+Georgia,Europe,GEO,2015,22.3
+Ghana,Africa,GHA,2015,20.6
+Guatemala,America,GTM,2015,19.9
+Guinea,Africa,GIN,2015,18.9
+Guinea Bissau,Africa,GNB,2015,19.2
+Guyana,America,GUY,2015,20.2
+Haiti,America,HTI,2015,21.1
+Honduras,America,HND,2015,19.9
+India,Asia/Pacific,IND,2015,20.3
+Indonesia,Asia/Pacific,IDN,2015,21.5
+Iraq,Asia/Pacific,IRQ,2015,21.7
+Jamaica,America,JAM,2015,
+Jordan,Asia/Pacific,JOR,2015,22.5
+Kazakhstan,Asia/Pacific,KAZ,2015,22.6
+Kenya,Africa,KEN,2015,19.7
+Kiribati,Asia/Pacific,KIR,2015,21.7
+Kosovo,Europe,XKO,2015,23.1
+Kyrgyzstan,Asia/Pacific,KGZ,2015,21.7
+Lao,Asia/Pacific,LAO,2015,20.6
+Lesotho,Africa,LSO,2015,20.5
+Liberia,Africa,LBR,2015,18.7
+Madagascar,Africa,MDG,2015,19.7
+Malawi,Africa,MWI,2015,18.6
+Maldives,Asia/Pacific,MDV,2015,21.7
+Mali,Africa,MLI,2015,19
+Mauritania,Africa,MRT,2015,20.7
+Mexico,America,MEX,2015,21.3
+Moldova,Europe,MDA,2015,21.4
+Mongolia,Asia/Pacific,MNG,2015,22.3
+Monte Negro,Europe,MNE,2015,23.7
+Morocco,Africa,MAR,2015,
+Mozambique,Africa,MOZ,2015,
+Myanmar,Asia/Pacific,MMR,2015,22.5
+Namibia,Africa,NAM,2015,20.8
+Nepal,Asia/Pacific,NPL,2015,19.8
+Nicaragua,America,NIC,2015,
+Niger,Africa,NER,2015,18.5
+Nigeria,Africa,NGA,2015,19.6
+North Macedonia,Europe,MKD,2015,23.2
+Pakistan,Asia/Pacific,PAK,2015,21.2
+Palestine,Asia/Pacific,PSE,2015,23.2
+Papua New Guinea,Asia/Pacific,PNG,2015,20.8
+Peru,America,PER,2015,21.1
+Philippines,Asia/Pacific,PHL,2015,22.2
+Qatar,Asia/Pacific,QAT,2015,29.6
+Rwanda,Africa,RWA,2015,21.8
+Saint Lucia,America,LCA,2015,21.2
+Samoa,Asia/Pacific,WSM,2015,
+Sao Tome & Principe,Africa,STP,2015,19.7
+Senegal,Africa,SEN,2015,20.2
+Serbia,Europe,SRB,2015,23.5
+Sierra Leone,Africa,SLE,2015,19.2
+Somalia,Africa,SOM,2015,
+South Africa,Africa,ZAF,2015,20.6
+South Sudan,Africa,SSD,2015,
+Sudan,Africa,SDN,2015,20.9
+Suriname,America,SUR,2015,21
+Syria,Asia/Pacific,SYR,2015,
+Tajikistan,Asia/Pacific,TJK,2015,21.4
+Tanzania,Africa,TZA,2015,19.5
+Thailand,Asia/Pacific,THA,2015,22.9
+Timor Leste,Asia/Pacific,TLS,2015,21.8
+Togo,Africa,TGO,2015,20.5
+Tonga,Asia/Pacific,TON,2015,
+Trinidad & Tobago,America,TTO,2015,
+Tunisia,Africa,TUN,2015,25.8
+Turkey,Asia/Pacific,TUR,2015,22.2
+Turkmenistan,Asia/Pacific,TKM,2015,23.1
+Turks & Caicos Islands,America,TCA,2015,
+Tuvalu,Asia/Pacific,TUV,2015,
+Uganda,Africa,UGA,2015,18.7
+Ukraine,Europe,UKR,2015,22.9
+Uzbekistan,Asia/Pacific,UZB,2015,
+Vanuatu,Asia/Pacific,VUT,2015,
+Vietnam,Asia/Pacific,VNM,2015,22.2
+Yemen,Asia/Pacific,YEM,2015,19.7
+Zambia,Africa,ZMB,2015,18.8
+Zimbabwe,Africa,ZWE,2015,19.8
+Afghanistan,Asia/Pacific,AFG,2014,19.3
+Albania,Europe,ALB,2014,22.9
+Algeria,Africa,DZA,2014,
+Angola,Africa,AGO,2014,19
+Armenia,Europe,ARM,2014,21.8
+Azerbaijan,Europe,AZE,2014,
+Bangladesh,Asia/Pacific,BGD,2014,18
+Barbados,America,BRB,2014,22.7
+Belarus,Europe,BLR,2014,25.3
+Belize,America,BLZ,2014,20.6
+Benin,Africa,BEN,2014,20
+Bhutan,Asia/Pacific,BTN,2014,
+Bolivia,America,BOL,2014,
+Brazil,America,BRA,2014,
+Burkina Faso,Africa,BFA,2014,
+Burundi,Africa,BDI,2014,20.7
+Cambodia,Asia/Pacific,KHM,2014,21.5
+Cameroon,Africa,CMR,2014,19.2
+Central African Republic CAR,Africa,CAF,2014,18.9
+Chad,Africa,TCD,2014,18
+Colombia,America,COL,2014,20.9
+Comoros,Africa,COM,2014,21
+Congo Brazzaville,Africa,COG,2014,19.4
+Congo Democratic Republic,Africa,COD,2014,19.6
+Costa Rica,America,CRI,2014,
+Cote d'Ivoire,Africa,CIV,2014,19.3
+Cuba,America,CUB,2014,22.1
+Djibouti,Africa,DJI,2014,
+Dominican Republic,America,DOM,2014,20.3
+Egypt,Africa,EGY,2014,21.6
+El Salvador,America,SLV,2014,20.3
+Eritrea,Africa,ERI,2014,
+Eswatini,Africa,SWZ,2014,19.8
+Ethiopia,Africa,ETH,2014,18.8
+Fiji,Asia/Pacific,FJI,2014,
+Gabon,Africa,GAB,2014,19.2
+Gambia,Africa,GMB,2014,19.4
+Georgia,Europe,GEO,2014,22.3
+Ghana,Africa,GHA,2014,20.6
+Guatemala,America,GTM,2014,19.9
+Guinea,Africa,GIN,2014,18.7
+Guinea Bissau,Africa,GNB,2014,19.2
+Guyana,America,GUY,2014,20.1
+Haiti,America,HTI,2014,21.1
+Honduras,America,HND,2014,19.9
+India,Asia/Pacific,IND,2014,20.1
+Indonesia,Asia/Pacific,IDN,2014,21.4
+Iraq,Asia/Pacific,IRQ,2014,21.6
+Jamaica,America,JAM,2014,18.3
+Jordan,Asia/Pacific,JOR,2014,22.4
+Kazakhstan,Asia/Pacific,KAZ,2014,22.6
+Kenya,Africa,KEN,2014,19.7
+Kiribati,Asia/Pacific,KIR,2014,
+Kosovo,Europe,XKO,2014,23.1
+Kyrgyzstan,Asia/Pacific,KGZ,2014,21.6
+Lao,Asia/Pacific,LAO,2014,20.5
+Lesotho,Africa,LSO,2014,20.4
+Liberia,Africa,LBR,2014,18.6
+Madagascar,Africa,MDG,2014,19.7
+Malawi,Africa,MWI,2014,18.6
+Maldives,Asia/Pacific,MDV,2014,21.5
+Mali,Africa,MLI,2014,19
+Mauritania,Africa,MRT,2014,20.6
+Mexico,America,MEX,2014,21.3
+Moldova,Europe,MDA,2014,21.4
+Mongolia,Asia/Pacific,MNG,2014,22.2
+Monte Negro,Europe,MNE,2014,23.6
+Morocco,Africa,MAR,2014,
+Mozambique,Africa,MOZ,2014,19.1
+Myanmar,Asia/Pacific,MMR,2014,22.5
+Namibia,Africa,NAM,2014,20.8
+Nepal,Asia/Pacific,NPL,2014,19.8
+Nicaragua,America,NIC,2014,
+Niger,Africa,NER,2014,18.4
+Nigeria,Africa,NGA,2014,19.6
+North Macedonia,Europe,MKD,2014,23.1
+Pakistan,Asia/Pacific,PAK,2014,21.1
+Palestine,Asia/Pacific,PSE,2014,22.4
+Papua New Guinea,Asia/Pacific,PNG,2014,20.8
+Peru,America,PER,2014,21.2
+Philippines,Asia/Pacific,PHL,2014,22.2
+Qatar,Asia/Pacific,QAT,2014,29.6
+Rwanda,Africa,RWA,2014,21.7
+Saint Lucia,America,LCA,2014,21.2
+Samoa,Asia/Pacific,WSM,2014,
+Sao Tome & Principe,Africa,STP,2014,19.6
+Senegal,Africa,SEN,2014,20.5
+Serbia,Europe,SRB,2014,23.2
+Sierra Leone,Africa,SLE,2014,19
+Somalia,Africa,SOM,2014,20.9
+South Africa,Africa,ZAF,2014,20.6
+South Sudan,Africa,SSD,2014,
+Sudan,Africa,SDN,2014,20.8
+Suriname,America,SUR,2014,21
+Syria,Asia/Pacific,SYR,2014,
+Tajikistan,Asia/Pacific,TJK,2014,21.4
+Tanzania,Africa,TZA,2014,19.4
+Thailand,Asia/Pacific,THA,2014,22.8
+Timor Leste,Asia/Pacific,TLS,2014,21.8
+Togo,Africa,TGO,2014,20.4
+Tonga,Asia/Pacific,TON,2014,
+Trinidad & Tobago,America,TTO,2014,23.3
+Tunisia,Africa,TUN,2014,
+Turkey,Asia/Pacific,TUR,2014,22.1
+Turkmenistan,Asia/Pacific,TKM,2014,23
+Turks & Caicos Islands,America,TCA,2014,
+Tuvalu,Asia/Pacific,TUV,2014,
+Uganda,Africa,UGA,2014,18.6
+Ukraine,Europe,UKR,2014,22.7
+Uzbekistan,Asia/Pacific,UZB,2014,
+Vanuatu,Asia/Pacific,VUT,2014,
+Vietnam,Asia/Pacific,VNM,2014,22
+Yemen,Asia/Pacific,YEM,2014,19.7
+Zambia,Africa,ZMB,2014,18.8
+Zimbabwe,Africa,ZWE,2014,19.7
+Afghanistan,Asia/Pacific,AFG,2013,19.2
+Albania,Europe,ALB,2013,22.9
+Algeria,Africa,DZA,2013,
+Angola,Africa,AGO,2013,19
+Armenia,Europe,ARM,2013,21.8
+Azerbaijan,Europe,AZE,2013,
+Bangladesh,Asia/Pacific,BGD,2013,17.9
+Barbados,America,BRB,2013,22.7
+Belarus,Europe,BLR,2013,25
+Belize,America,BLZ,2013,20.4
+Benin,Africa,BEN,2013,20
+Bhutan,Asia/Pacific,BTN,2013,20.7
+Bolivia,America,BOL,2013,
+Brazil,America,BRA,2013,
+Burkina Faso,Africa,BFA,2013,19.2
+Burundi,Africa,BDI,2013,20.7
+Cambodia,Asia/Pacific,KHM,2013,21.4
+Cameroon,Africa,CMR,2013,19.1
+Central African Republic CAR,Africa,CAF,2013,18.9
+Chad,Africa,TCD,2013,18.1
+Colombia,America,COL,2013,20.9
+Comoros,Africa,COM,2013,20.9
+Congo Brazzaville,Africa,COG,2013,19.4
+Congo Democratic Republic,Africa,COD,2013,19.4
+Costa Rica,America,CRI,2013,
+Cote d'Ivoire,Africa,CIV,2013,19.2
+Cuba,America,CUB,2013,22.1
+Djibouti,Africa,DJI,2013,
+Dominican Republic,America,DOM,2013,20.3
+Egypt,Africa,EGY,2013,21.5
+El Salvador,America,SLV,2013,20.3
+Eritrea,Africa,ERI,2013,
+Eswatini,Africa,SWZ,2013,19.7
+Ethiopia,Africa,ETH,2013,18.7
+Fiji,Asia/Pacific,FJI,2013,
+Gabon,Africa,GAB,2013,19.1
+Gambia,Africa,GMB,2013,19.4
+Georgia,Europe,GEO,2013,22.3
+Ghana,Africa,GHA,2013,20.5
+Guatemala,America,GTM,2013,19.9
+Guinea,Africa,GIN,2013,18.6
+Guinea Bissau,Africa,GNB,2013,19.2
+Guyana,America,GUY,2013,20.1
+Haiti,America,HTI,2013,21.1
+Honduras,America,HND,2013,19.8
+India,Asia/Pacific,IND,2013,20
+Indonesia,Asia/Pacific,IDN,2013,21.4
+Iraq,Asia/Pacific,IRQ,2013,21.6
+Jamaica,America,JAM,2013,18.9
+Jordan,Asia/Pacific,JOR,2013,22.4
+Kazakhstan,Asia/Pacific,KAZ,2013,22.5
+Kenya,Africa,KEN,2013,19.6
+Kiribati,Asia/Pacific,KIR,2013,
+Kosovo,Europe,XKO,2013,23
+Kyrgyzstan,Asia/Pacific,KGZ,2013,21.6
+Lao,Asia/Pacific,LAO,2013,20.4
+Lesotho,Africa,LSO,2013,20.4
+Liberia,Africa,LBR,2013,18.6
+Madagascar,Africa,MDG,2013,19.6
+Malawi,Africa,MWI,2013,18.6
+Maldives,Asia/Pacific,MDV,2013,21.3
+Mali,Africa,MLI,2013,19
+Mauritania,Africa,MRT,2013,20.5
+Mexico,America,MEX,2013,21.3
+Moldova,Europe,MDA,2013,21.4
+Mongolia,Asia/Pacific,MNG,2013,22.1
+Monte Negro,Europe,MNE,2013,23.5
+Morocco,Africa,MAR,2013,
+Mozambique,Africa,MOZ,2013,19
+Myanmar,Asia/Pacific,MMR,2013,22.5
+Namibia,Africa,NAM,2013,20.8
+Nepal,Asia/Pacific,NPL,2013,19.8
+Nicaragua,America,NIC,2013,
+Niger,Africa,NER,2013,18.4
+Nigeria,Africa,NGA,2013,19.5
+North Macedonia,Europe,MKD,2013,23
+Pakistan,Asia/Pacific,PAK,2013,21
+Palestine,Asia/Pacific,PSE,2013,22
+Papua New Guinea,Asia/Pacific,PNG,2013,
+Peru,America,PER,2013,21.2
+Philippines,Asia/Pacific,PHL,2013,22.2
+Qatar,Asia/Pacific,QAT,2013,29.6
+Rwanda,Africa,RWA,2013,21.7
+Saint Lucia,America,LCA,2013,21.2
+Samoa,Asia/Pacific,WSM,2013,
+Sao Tome & Principe,Africa,STP,2013,19.5
+Senegal,Africa,SEN,2013,20.3
+Serbia,Europe,SRB,2013,23.4
+Sierra Leone,Africa,SLE,2013,18.8
+Somalia,Africa,SOM,2013,20.9
+South Africa,Africa,ZAF,2013,20.6
+South Sudan,Africa,SSD,2013,20
+Sudan,Africa,SDN,2013,20.7
+Suriname,America,SUR,2013,20.9
+Syria,Asia/Pacific,SYR,2013,
+Tajikistan,Asia/Pacific,TJK,2013,21.3
+Tanzania,Africa,TZA,2013,19.3
+Thailand,Asia/Pacific,THA,2013,22.8
+Timor Leste,Asia/Pacific,TLS,2013,21.7
+Togo,Africa,TGO,2013,20.5
+Tonga,Asia/Pacific,TON,2013,
+Trinidad & Tobago,America,TTO,2013,23.1
+Tunisia,Africa,TUN,2013,
+Turkey,Asia/Pacific,TUR,2013,22
+Turkmenistan,Asia/Pacific,TKM,2013,23
+Turks & Caicos Islands,America,TCA,2013,
+Tuvalu,Asia/Pacific,TUV,2013,
+Uganda,Africa,UGA,2013,18.5
+Ukraine,Europe,UKR,2013,22.6
+Uzbekistan,Asia/Pacific,UZB,2013,
+Vanuatu,Asia/Pacific,VUT,2013,
+Vietnam,Asia/Pacific,VNM,2013,22.2
+Yemen,Asia/Pacific,YEM,2013,19.6
+Zambia,Africa,ZMB,2013,18.8
+Zimbabwe,Africa,ZWE,2013,19.7
+Afghanistan,Asia/Pacific,AFG,2012,19.1
+Albania,Europe,ALB,2012,22.9
+Algeria,Africa,DZA,2012,
+Angola,Africa,AGO,2012,19
+Armenia,Europe,ARM,2012,21.8
+Azerbaijan,Europe,AZE,2012,
+Bangladesh,Asia/Pacific,BGD,2012,17.9
+Barbados,America,BRB,2012,22.7
+Belarus,Europe,BLR,2012,24.7
+Belize,America,BLZ,2012,20.3
+Benin,Africa,BEN,2012,20.1
+Bhutan,Asia/Pacific,BTN,2012,20.7
+Bolivia,America,BOL,2012,
+Brazil,America,BRA,2012,
+Burkina Faso,Africa,BFA,2012,19.2
+Burundi,Africa,BDI,2012,20.7
+Cambodia,Asia/Pacific,KHM,2012,21.4
+Cameroon,Africa,CMR,2012,19
+Central African Republic CAR,Africa,CAF,2012,18.9
+Chad,Africa,TCD,2012,18.2
+Colombia,America,COL,2012,20.9
+Comoros,Africa,COM,2012,20.8
+Congo Brazzaville,Africa,COG,2012,19.3
+Congo Democratic Republic,Africa,COD,2012,19.4
+Costa Rica,America,CRI,2012,
+Cote d'Ivoire,Africa,CIV,2012,19.1
+Cuba,America,CUB,2012,22.1
+Djibouti,Africa,DJI,2012,
+Dominican Republic,America,DOM,2012,20.3
+Egypt,Africa,EGY,2012,21.5
+El Salvador,America,SLV,2012,20.3
+Eritrea,Africa,ERI,2012,
+Eswatini,Africa,SWZ,2012,19.6
+Ethiopia,Africa,ETH,2012,18.7
+Fiji,Asia/Pacific,FJI,2012,
+Gabon,Africa,GAB,2012,19
+Gambia,Africa,GMB,2012,19.3
+Georgia,Europe,GEO,2012,22.3
+Ghana,Africa,GHA,2012,20.4
+Guatemala,America,GTM,2012,19.9
+Guinea,Africa,GIN,2012,18.4
+Guinea Bissau,Africa,GNB,2012,19.2
+Guyana,America,GUY,2012,20.2
+Haiti,America,HTI,2012,21.1
+Honduras,America,HND,2012,19.8
+India,Asia/Pacific,IND,2012,19.9
+Indonesia,Asia/Pacific,IDN,2012,21.3
+Iraq,Asia/Pacific,IRQ,2012,21.6
+Jamaica,America,JAM,2012,19.5
+Jordan,Asia/Pacific,JOR,2012,22.4
+Kazakhstan,Asia/Pacific,KAZ,2012,22.5
+Kenya,Africa,KEN,2012,19.6
+Kiribati,Asia/Pacific,KIR,2012,
+Kosovo,Europe,XKO,2012,22.9
+Kyrgyzstan,Asia/Pacific,KGZ,2012,21.7
+Lao,Asia/Pacific,LAO,2012,20.3
+Lesotho,Africa,LSO,2012,20.4
+Liberia,Africa,LBR,2012,18.6
+Madagascar,Africa,MDG,2012,19.6
+Malawi,Africa,MWI,2012,18.6
+Maldives,Asia/Pacific,MDV,2012,21.1
+Mali,Africa,MLI,2012,18.9
+Mauritania,Africa,MRT,2012,20.4
+Mexico,America,MEX,2012,
+Moldova,Europe,MDA,2012,21.5
+Mongolia,Asia/Pacific,MNG,2012,22
+Monte Negro,Europe,MNE,2012,24.1
+Morocco,Africa,MAR,2012,
+Mozambique,Africa,MOZ,2012,19
+Myanmar,Asia/Pacific,MMR,2012,
+Namibia,Africa,NAM,2012,20.8
+Nepal,Asia/Pacific,NPL,2012,19.7
+Nicaragua,America,NIC,2012,
+Niger,Africa,NER,2012,18.3
+Nigeria,Africa,NGA,2012,19.5
+North Macedonia,Europe,MKD,2012,22.9
+Pakistan,Asia/Pacific,PAK,2012,20.9
+Palestine,Asia/Pacific,PSE,2012,21.6
+Papua New Guinea,Asia/Pacific,PNG,2012,
+Peru,America,PER,2012,21.2
+Philippines,Asia/Pacific,PHL,2012,22.2
+Qatar,Asia/Pacific,QAT,2012,29.6
+Rwanda,Africa,RWA,2012,21.6
+Saint Lucia,America,LCA,2012,21.2
+Samoa,Asia/Pacific,WSM,2012,
+Sao Tome & Principe,Africa,STP,2012,19.5
+Senegal,Africa,SEN,2012,20.1
+Serbia,Europe,SRB,2012,23.5
+Sierra Leone,Africa,SLE,2012,18.9
+Somalia,Africa,SOM,2012,20.9
+South Africa,Africa,ZAF,2012,20.6
+South Sudan,Africa,SSD,2012,20
+Sudan,Africa,SDN,2012,20.7
+Suriname,America,SUR,2012,20.8
+Syria,Asia/Pacific,SYR,2012,
+Tajikistan,Asia/Pacific,TJK,2012,21.3
+Tanzania,Africa,TZA,2012,19.3
+Thailand,Asia/Pacific,THA,2012,22.7
+Timor Leste,Asia/Pacific,TLS,2012,21.6
+Togo,Africa,TGO,2012,20.5
+Tonga,Asia/Pacific,TON,2012,
+Trinidad & Tobago,America,TTO,2012,22.9
+Tunisia,Africa,TUN,2012,
+Turkey,Asia/Pacific,TUR,2012,21.8
+Turkmenistan,Asia/Pacific,TKM,2012,22.9
+Turks & Caicos Islands,America,TCA,2012,
+Tuvalu,Asia/Pacific,TUV,2012,
+Uganda,Africa,UGA,2012,18.4
+Ukraine,Europe,UKR,2012,22.4
+Uzbekistan,Asia/Pacific,UZB,2012,
+Vanuatu,Asia/Pacific,VUT,2012,
+Vietnam,Asia/Pacific,VNM,2012,22.4
+Yemen,Asia/Pacific,YEM,2012,19.6
+Zambia,Africa,ZMB,2012,18.8
+Zimbabwe,Africa,ZWE,2012,19.7
+Afghanistan,Asia/Pacific,AFG,2011,18.9
+Albania,Europe,ALB,2011,22.9
+Algeria,Africa,DZA,2011,
+Angola,Africa,AGO,2011,18.9
+Armenia,Europe,ARM,2011,21.7
+Azerbaijan,Europe,AZE,2011,
+Bangladesh,Asia/Pacific,BGD,2011,17.9
+Barbados,America,BRB,2011,22.7
+Belarus,Europe,BLR,2011,24.4
+Belize,America,BLZ,2011,20.2
+Benin,Africa,BEN,2011,20.1
+Bhutan,Asia/Pacific,BTN,2011,20.7
+Bolivia,America,BOL,2011,20.6
+Brazil,America,BRA,2011,
+Burkina Faso,Africa,BFA,2011,19.2
+Burundi,Africa,BDI,2011,20.7
+Cambodia,Asia/Pacific,KHM,2011,21.4
+Cameroon,Africa,CMR,2011,19
+Central African Republic CAR,Africa,CAF,2011,18.8
+Chad,Africa,TCD,2011,18.3
+Colombia,America,COL,2011,20.9
+Comoros,Africa,COM,2011,20.8
+Congo Brazzaville,Africa,COG,2011,19.3
+Congo Democratic Republic,Africa,COD,2011,19.3
+Costa Rica,America,CRI,2011,
+Cote d'Ivoire,Africa,CIV,2011,19
+Cuba,America,CUB,2011,22
+Djibouti,Africa,DJI,2011,
+Dominican Republic,America,DOM,2011,20.2
+Egypt,Africa,EGY,2011,21.5
+El Salvador,America,SLV,2011,20.3
+Eritrea,Africa,ERI,2011,
+Eswatini,Africa,SWZ,2011,19.5
+Ethiopia,Africa,ETH,2011,18.7
+Fiji,Asia/Pacific,FJI,2011,
+Gabon,Africa,GAB,2011,19
+Gambia,Africa,GMB,2011,19.2
+Georgia,Europe,GEO,2011,22.3
+Ghana,Africa,GHA,2011,20.4
+Guatemala,America,GTM,2011,19.8
+Guinea,Africa,GIN,2011,18.5
+Guinea Bissau,Africa,GNB,2011,19.2
+Guyana,America,GUY,2011,20.2
+Haiti,America,HTI,2011,21
+Honduras,America,HND,2011,19.8
+India,Asia/Pacific,IND,2011,19.8
+Indonesia,Asia/Pacific,IDN,2011,21.2
+Iraq,Asia/Pacific,IRQ,2011,21.6
+Jamaica,America,JAM,2011,20.1
+Jordan,Asia/Pacific,JOR,2011,22.3
+Kazakhstan,Asia/Pacific,KAZ,2011,22.4
+Kenya,Africa,KEN,2011,19.5
+Kiribati,Asia/Pacific,KIR,2011,
+Kosovo,Europe,XKO,2011,22.9
+Kyrgyzstan,Asia/Pacific,KGZ,2011,21.7
+Lao,Asia/Pacific,LAO,2011,20.2
+Lesotho,Africa,LSO,2011,20.3
+Liberia,Africa,LBR,2011,18.7
+Madagascar,Africa,MDG,2011,19.6
+Malawi,Africa,MWI,2011,18.5
+Maldives,Asia/Pacific,MDV,2011,21
+Mali,Africa,MLI,2011,18.9
+Mauritania,Africa,MRT,2011,20.3
+Mexico,America,MEX,2011,
+Moldova,Europe,MDA,2011,21.5
+Mongolia,Asia/Pacific,MNG,2011,21.9
+Monte Negro,Europe,MNE,2011,24.6
+Morocco,Africa,MAR,2011,
+Mozambique,Africa,MOZ,2011,18.9
+Myanmar,Asia/Pacific,MMR,2011,
+Namibia,Africa,NAM,2011,20.7
+Nepal,Asia/Pacific,NPL,2011,19.7
+Nicaragua,America,NIC,2011,
+Niger,Africa,NER,2011,18.3
+Nigeria,Africa,NGA,2011,19.5
+North Macedonia,Europe,MKD,2011,22.8
+Pakistan,Asia/Pacific,PAK,2011,20.9
+Palestine,Asia/Pacific,PSE,2011,21.3
+Papua New Guinea,Asia/Pacific,PNG,2011,
+Peru,America,PER,2011,21.2
+Philippines,Asia/Pacific,PHL,2011,22.2
+Qatar,Asia/Pacific,QAT,2011,29.6
+Rwanda,Africa,RWA,2011,21.6
+Saint Lucia,America,LCA,2011,21.2
+Samoa,Asia/Pacific,WSM,2011,
+Sao Tome & Principe,Africa,STP,2011,19.4
+Senegal,Africa,SEN,2011,19.9
+Serbia,Europe,SRB,2011,23.6
+Sierra Leone,Africa,SLE,2011,18.9
+Somalia,Africa,SOM,2011,20.9
+South Africa,Africa,ZAF,2011,20.5
+South Sudan,Africa,SSD,2011,20
+Sudan,Africa,SDN,2011,20.6
+Suriname,America,SUR,2011,20.8
+Syria,Asia/Pacific,SYR,2011,
+Tajikistan,Asia/Pacific,TJK,2011,21.3
+Tanzania,Africa,TZA,2011,19.2
+Thailand,Asia/Pacific,THA,2011,22.5
+Timor Leste,Asia/Pacific,TLS,2011,21.5
+Togo,Africa,TGO,2011,20.6
+Tonga,Asia/Pacific,TON,2011,
+Trinidad & Tobago,America,TTO,2011,22.7
+Tunisia,Africa,TUN,2011,
+Turkey,Asia/Pacific,TUR,2011,21.7
+Turkmenistan,Asia/Pacific,TKM,2011,22.9
+Turks & Caicos Islands,America,TCA,2011,
+Tuvalu,Asia/Pacific,TUV,2011,
+Uganda,Africa,UGA,2011,18.3
+Ukraine,Europe,UKR,2011,22.3
+Uzbekistan,Asia/Pacific,UZB,2011,
+Vanuatu,Asia/Pacific,VUT,2011,
+Vietnam,Asia/Pacific,VNM,2011,22.6
+Yemen,Asia/Pacific,YEM,2011,19.5
+Zambia,Africa,ZMB,2011,18.8
+Zimbabwe,Africa,ZWE,2011,19.7

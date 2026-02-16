@@ -1,0 +1,49 @@
+{
+  "appTitle": "NutriTrack",
+  "maternalRecords": "Maternal Records",
+  "childRecords": "Child Records",
+  "addMaternalRecord": "Add Maternal Record",
+  "addChildRecord": "Add Child Record",
+  "editRecord": "Edit Record",
+  "deleteRecord": "Delete Record",
+  "name": "Name",
+  "age": "Age",
+  "weight": "Weight",
+  "height": "Height",
+  "gender": "Gender",
+  "dateOfBirth": "Date of Birth",
+  "hemoglobin": "Hemoglobin",
+  "muac": "MUAC",
+  "save": "Save",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "edit": "Edit",
+  "loading": "Loading...",
+  "noRecordsFound": "No records found",
+  "recordSaved": "Record saved successfully",
+  "recordDeleted": "Record deleted successfully",
+  "confirmDelete": "Are you sure?",
+  "nutrition": "Nutrition",
+  "guidance": "Guidance",
+  "recommendations": "Recommendations",
+  "riskLevel": "Risk Level",
+  "normal": "Normal",
+  "moderate": "Moderate",
+  "highRisk": "High Risk",
+  "severe": "Severe",
+  "offline": "Offline",
+  "synced": "Synced",
+  "syncing": "Syncing...",
+  "lastSyncTime": "Last sync: {time}",
+  "@lastSyncTime": {
+    "description": "Last sync timestamp",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "selectLanguage": "Select Language",
+  "english": "English",
+  "hindi": "हिंदी"
+}

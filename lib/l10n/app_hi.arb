@@ -1,0 +1,49 @@
+{
+  "appTitle": "पोषण ट्रैक",
+  "maternalRecords": "माता के रिकॉर्ड",
+  "childRecords": "बच्चे के रिकॉर्ड",
+  "addMaternalRecord": "माता का रिकॉर्ड जोड़ें",
+  "addChildRecord": "बच्चे का रिकॉर्ड जोड़ें",
+  "editRecord": "रिकॉर्ड संपादित करें",
+  "deleteRecord": "रिकॉर्ड हटाएं",
+  "name": "नाम",
+  "age": "उम्र",
+  "weight": "वजन",
+  "height": "लंबाई",
+  "gender": "लिंग",
+  "dateOfBirth": "जन्म की तारीख",
+  "hemoglobin": "हीमोग्लोबिन",
+  "muac": "म्यूएसी",
+  "save": "सहेजें",
+  "cancel": "रद्द करें",
+  "delete": "हटाएं",
+  "edit": "संपादित करें",
+  "loading": "लोड हो रहा है...",
+  "noRecordsFound": "कोई रिकॉर्ड नहीं मिला",
+  "recordSaved": "रिकॉर्ड सफलतापूर्वक सहेजा गया",
+  "recordDeleted": "रिकॉर्ड सफलतापूर्वक हटा दिया गया",
+  "confirmDelete": "क्या आप सुनिश्चित हैं?",
+  "nutrition": "पोषण",
+  "guidance": "मार्गदर्शन",
+  "recommendations": "सिफारिशें",
+  "riskLevel": "जोखिम स्तर",
+  "normal": "सामान्य",
+  "moderate": "मध्यम",
+  "highRisk": "उच्च जोखिम",
+  "severe": "गंभीर",
+  "offline": "ऑफलाइन",
+  "synced": "सिंक किया हुआ",
+  "syncing": "सिंक हो रहा है...",
+  "lastSyncTime": "अंतिम सिंक: {time}",
+  "@lastSyncTime": {
+    "description": "अंतिम सिंक टाइमस्टैम्प",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "selectLanguage": "भाषा चुनें",
+  "english": "English",
+  "hindi": "हिंदी"
+}
